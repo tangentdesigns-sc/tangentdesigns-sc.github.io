@@ -1,1 +1,4 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
+  load_paths:
+    - _sass
+    - node_modules
